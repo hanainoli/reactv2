@@ -7,9 +7,7 @@ SocialIconLink} from './footerElements';
 import {animateScroll as scroll} from 'react-scroll'
 
 const Footer = () => {
-
   const toggleHome = () =>{
-
     scroll.scrollToTop();
   }
     return (
