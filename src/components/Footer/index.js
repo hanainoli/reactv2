@@ -30,7 +30,7 @@ const Footer = () => {
                    <FooterLink to="/signin">Birkur Mandal </FooterLink>
                    <FooterLink to="/signin">Kamareddy District</FooterLink>
                    <FooterLink to="/signin"> Telengana</FooterLink>
-                   <FooterLink to="/signin">500055</FooterLink>
+                   <FooterLink to="/signin">503321</FooterLink>
                    
                 
                 </FooterLinkItems>

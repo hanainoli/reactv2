@@ -41,7 +41,7 @@ export const homeObjThree = {
     lightBg:true,
     lightText:false,
     lightTextDesc:false,
-    topLine:'Sinup',
+    topLine:'Contribution',
     headLine:'Annadhanam',
     description:' Their list will shown here.',
     buttonLable:'StartNow',

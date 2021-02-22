@@ -67,11 +67,11 @@ const Navbar = ({toggle}) => {
                 duration={500} 
                 spy={true} 
                 exact='true'
-               offset={-80} >Sign Up</NavLinks>
+               offset={-80} >Contribution</NavLinks>
               </NavItem>
             </NavMenu>
             <NavBtn>
-               <NavBtnLink to="/signin">Sign In</NavBtnLink>
+               <NavBtnLink to="/signin">Login</NavBtnLink>
             </NavBtn>
 
 

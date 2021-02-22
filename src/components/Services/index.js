@@ -13,17 +13,17 @@ const Services = () => {
                <ServicesCard>
                   <ServicesIcon src={Icon1}/>
                   <ServicesH2>Anna Dhanam</ServicesH2>
-                  <ServicesP>For well being of family , realtives, friends .</ServicesP>
+                  <ServicesP>For well being of family , relatives, friends .</ServicesP>
                </ServicesCard>
                <ServicesCard>
                <ServicesIcon src={Icon2}/>
                <ServicesH2>Saswatha Anna Dhanam</ServicesH2>
-               <ServicesP>For well being of family , realtives, friends .</ServicesP>
+               <ServicesP>For well being of family , relatives, friends .</ServicesP>
             </ServicesCard>
             <ServicesCard>
             <ServicesIcon src={Icon3}/>
             <ServicesH2>Pooja</ServicesH2>
-            <ServicesP>For well being of family , realtives, friends .</ServicesP>
+            <ServicesP>For well being of family , relatives, friends .</ServicesP>
          </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
